@@ -86,7 +86,7 @@
 |[ONLYONE](https://only-one.cc)| OFFLINE | |
 |[ORVX SHOP](https://orvx.pw/)| ONLINE | |
 |[Pois0n](https://pois0ncc.ru)| ONLINE | |
-|[PROBIV](https://probiv.one)| ONLINE | |
+|[PROBIV](https://probiv.one)| OFFLINE | |
 |[RESCATOR](https://rescator.cn)| ONLINE | |
 |[RESCATOR (Tor v3)](http://rescatorfof3pwgux4olwxxcd22yjtuj72kmdltyr6tsr6jfohpnhead.onion)| ONLINE | |
 |[RONDA STORE (Deep - mirror)](https://rondastore.vip)| ONLINE | |
@@ -108,7 +108,7 @@
 |[THEMAJESTIC](http://tmglsdiax6dhx6iasbrokghhv7553a4cqc374tcgkvgl3xmp6z5t5myd.onion)| ONLINE | |
 |[TOOREZ](http://lstkx6p3gzsgfwsqpntlv7tv4tsjzziwp76gvkaxx2mqe3whvlp243id.onion)| OFFLINE | |
 |[TOR2DOOR](http://orn3olemwhrsqbpz7iv34mjzare6sns5z75rea3qzwqlle76wxsdzeqd.onion)| OFFLINE | |
-|[UAS RDP SHOP](http://2x4tmsirlqvqmwdz.onion)| ONLINE | |
+|[UAS RDP SHOP](http://2x4tmsirlqvqmwdz.onion)| OFFLINE | |
 |[UniCC](https://unicvv.ru)| ONLINE | |
 |[VICE CITY](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion)| ONLINE | |
 |[VICE CITY](http://viceagrs476vms3hlgotcimao4lwnpz2ffpvgbdnbeqwu74g47z4usyd.onion)| ONLINE | |
@@ -121,7 +121,7 @@
 |[WHM market (1)](http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion)| OFFLINE | |
 |[WHM market (2)](http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion)| OFFLINE | |
 |[WINXXX (Dark)](http://cvvamoggrcopaeehscyic6xu3q5lbameo3kv3q3ptpfa5bsq2vrbjsad.onion)| ONLINE | |
-|[WINXXX (Deep)](https://cvv.ms)| ONLINE | |
+|[WINXXX (Deep)](https://cvv.ms)| OFFLINE | |
 |[XLEET (Dark)](http://xleetg4krpki4irlaelwacpfhfxnhpizuipxc7f3aztu7265fqvinfad.onion)| ONLINE | |
 |[XLEET (Deep)](https://xleet.is)| ONLINE | |
 |[ZISMO](https://zismo.biz)| ONLINE | |
