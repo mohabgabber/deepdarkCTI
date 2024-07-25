@@ -1,28 +1,27 @@
 |Name|Status|Description|
 | ------ | ------ | ------ |
-|[0-DAY](https://0-day.shop)| ONLINE | |
-|[Stealer credential leaks](https://whiteintel.io)| ONLINE | |
+|[0-DAY](https://0-day.shop)| OFFLINE | |
 |[Darth maul shop](https://1977.ws/)| ONLINE | |
 |[2EASY](https://2easy.shop)| OFFLINE | |
 |[2EASY](https://2easy.cc)| ONLINE | |
 |[ALLWORLDCARDS](https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
 |[AlphaBay (Dark i2p)](tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p)| ONLINE | |
-|[AlphaBay (Dark Tor)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion)| ONLINE | |
+|[AlphaBay (Dark Tor)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion)| OFFLINE | |
 |[Archetyp](http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion)| ONLINE | |
 |[ARES](http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion)| ONLINE | |
-|[ASEAN](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion)| ONLINE | |
+|[ASEAN](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion)| OFFLINE | |
 |[BIDEN CASH (Dark Tor)](http://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion)| ONLINE | |
-|[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| ONLINE | |
-|[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| ONLINE | |
+|[BIDEN CASH (free CVV - dark web)](http://l5wy5mo2bqv4pm5ozschtmqool2uwju4emahlqzfxlwsdgxtppjcblad.onion)| OFFLINE | |
+|[BIDEN CASH (free CVV - deep web)](https://bidencash.st)| OFFLINE | |
 |[BIDEN CASH](https://bidencash.cards)| OFFLINE | |
 |[BLACKBONES](https://blackbones.net)| ONLINE | |
 |[BLACKPASS](http://blackpasspn7734jqltjj2qx4qez5gcpcwujuugymky3lzcmmcfpzbyd.onion)| ONLINE | |
-|[BOHEMIA](http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion)| ONLINE | |
-|[BOHEMIA](http://bohemia65jifi6rj3dcvu23tks5teidk6wllndg62vb37f57e6ymtgid.onion)| ONLINE | |
+|[BOHEMIA](http://bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion)| OFFLINE | |
+|[BOHEMIA](http://bohemia65jifi6rj3dcvu23tks5teidk6wllndg62vb37f57e6ymtgid.onion)| OFFLINE | |
 |[BRAINSCLUB](https://brainsclub.to)| ONLINE | |
 |[BRIAN'S CLUB](https://briansclub.cm)| ONLINE | |
-|[BR0K3R](http://brok3r7bhcblynwpoymgarr6zwcy4ttfbhkhcmotz4lw2gcsuojgaeqd.onion/)| ONLINE | |
-|[B-P Market](https://b-p.sale/)| ONLINE | |
+|[BR0K3R](http://brok3r7bhcblynwpoymgarr6zwcy4ttfbhkhcmotz4lw2gcsuojgaeqd.onion/)| OFFLINE | |
+|[B-P Market](https://b-p.sale/)| OFFLINE | |
 |[CABYC](http://cabyceogpsji73sske5nvo45mdrkbz4m3qd3iommf3zaaa6izg3j2cqd.onion)| ONLINE | |
 |[CARD STORE](https://carding.store)| ONLINE | |
 |[CARD TEAM](https://card.ms)| OFFLINE | |
@@ -34,7 +33,7 @@
 |[CLUB2CRD](https://club2crd.cc)| OFFLINE | |
 |[CLUBV](https://clubv.su)| OFFLINE | |
 |[CRIMEMARKET](https://crimemarket.is)| ONLINE | |
-|[CRIMEMARKET (Dark)](http://crimemosjicmij6jqtwww7wm2rmor5ymrs6wha6tzyiisxhy34go5sid.onion/)| ONLINE | |
+|[CRIMEMARKET (Dark)](http://crimemosjicmij6jqtwww7wm2rmor5ymrs6wha6tzyiisxhy34go5sid.onion/)| OFFLINE | |
 |[CVV SHOP DUMPS](http://masterc2oss6cmeiwd6hzz44ghjdvkw2og6zv5iczcrssrbkrbuhn3qd.onion)| ONLINE | |
 |[CVVUNION](https://cvv-union.at)| OFFLINE | |
 |[CYPHER](http://6c5qaeiibh6ggmobsrv6vuilgb5uzjejpt2n3inoz2kv2sgzocymdvyd.onion)| ONLINE | |
