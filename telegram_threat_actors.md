@@ -6,7 +6,7 @@
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
 |https://t.me/+9P5FQ85afTc4NGNl|VALID| Goblin's Database ||
 |https://t.me/aaron_bushneII|ONLINE|Aaron Bushnell hackers||
-|https://t.me/AC3HCYBER|ONLINE|ACEH||
+|https://t.me/AC3HCYBER|OFFLINE|ACEH||
 |https://t.me/AccountSquadChat|ONLINE|Illicit Service Group||
 |https://t.me/ACCOUNTSQUAD|OFFLINE|Illicit Service Channel||
 |https://t.me/aidlock/|ONLINE| AiDLocker group channel||
@@ -175,7 +175,7 @@
 |https://t.me/FiveFamilies|ONLINE|FiveFamilies||
 |https://t.me/flannels|ONLINE| Market ||
 |https://t.me/+fR-06lKTQ_VmODA0|EXPIRED| Data Leaks ||
-|https://t.me/fr33d4t4|ONLINE| Fr33 d4t4 - stolen redline from other channels||
+|https://t.me/fr33d4t4|OFFLINE| Fr33 d4t4 - stolen redline from other channels||
 |https://t.me/FR3DENSOFSECURITY_2023|OFFLINE| ||
 |https://t.me/freeDEFAULFcloud|ONLINE| Defaulf Cloud (Redline Stealer)|Infostealer|
 |https://t.me/freedomf0x|ONLINE| ||
@@ -209,7 +209,7 @@
 |https://t.me/hackingtoolsprvi8|ONLINE| Leaks ||
 |https://t.me/hack_n3t|ONLINE|HackNeT||
 |https://t.me/hadesh0p|ONLINE| ||
-|https://t.me/Handala_hack|ONLINE|Handala Hack||
+|https://t.me/Handala_hack|OFFLINE|Handala Hack|Leaks & Breaches|
 |https://t.me/hellokittyleaks|OFFLINE| Data Leaks ||
 |https://t.me/hgn01_ru|ONLINE| Data Leaks ||
 |https://t.me/hidden_links|ONLINE| Hidden Links ||
@@ -559,4 +559,8 @@
 |https://t.me/dedsecc_official|ONLINE|DedSec|DDoS|
 |https://t.me/hackerforse|ONLINE|7 October Union|DDoS|
 |https://t.me/whoisAlixan|ONLINE|AlixSec|Leaks & Breaches|
-|https://t.me/StressedForums|ONLINE|Stessed Forum|Forum|
+|https://t.me/StressedForums|OFFLINE|Stessed Forum|Forum|
+|https://t.me/ddosiamonitor|ONLINE|DDoSia Target Monitor|DDoS|
+|https://t.me/h0lyleague|ONLINE|Holy League|DDoS|
+|https://t.me/+kcr0MVem9OA3MTk6|ONLINE|Handala Hack|Leaks & Breaches|
+|https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
