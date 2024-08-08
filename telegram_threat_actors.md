@@ -38,7 +38,7 @@
 |https://t.me/atw2022|ONLINE| Against The West ||
 |https://t.me/AutoLookup|ONLINE|AutoLookup||
 |https://t.me/awsleaks|OFFLINE|AWS Leaks||
-|https://t.me/azzasec|ONLINE|AzzaSec||
+|https://t.me/azzasec|OFFLINE|AzzaSec||
 |https://t.me/baphchat|ONLINE|The Jacuzzi||
 |https://t.me/base_brutesu|ONLINE| Combo List|
 |https://t.me/baseleak|ONLINE| Data Leaks ||
@@ -133,7 +133,7 @@
 |https://t.me/DarkStormTeamd|ONLINE|Dark Storm Team||
 |https://t.me/DarkStormTeams|OFFLINE|Dark Storm Team||
 |https://t.me/darkvaultransom|ONLINE|Dark Vault ransom|Ransomware|
-|https://t.me/darkwebdarknetmarketplace|ONLINE|Illicit Service||
+|https://t.me/darkwebdarknetmarketplace|OFFLINE|Illicit Service||
 |https://t.me/darxe_base|OFFLINE| Data Leaks ||
 |https://t.me/data1eaks|ONLINE| ||
 |https://t.me/Database_breached|OFFLINE| Data Leaks ||
@@ -316,7 +316,7 @@
 |https://t.me/LEGIONLEAKER|ONLINE|Legion Leaker||
 |https://t.me/Legion_Russia|OFFLINE| Legion Russia ||
 |https://t.me/LegionServiceNewsGroup|ONLINE|Legion Service News Group|Data Leak|
-|https://t.me/LionheartHACK|ONLINE|Lionheart||
+|https://t.me/LionheartHACK|OFFLINE|Lionheart||
 |https://t.me/LockBit_APT|ONLINE| LockBit APT ||
 |https://t.me/lockbit_offical|ONLINE|LockBit 3.0|Ransomware gang|
 |https://t.me/LockBitSuppRaaS|OFFLINE|LockBitSupp|Ransomware gang|
@@ -370,7 +370,7 @@
 |https://t.me/OfficialBaphomet|ONLINE|BaphometOfficial||
 |https://t.me/OnePlusChat|ONLINE| ||
 |https://t.me/opendataleaks|OFFLINE| Data Leaks ||
-|https://t.me/openleak|ONLINE| Data Leaks ||
+|https://t.me/openleak|OFFLINE| Data Leaks ||
 |https://t.me/OPRATIONSALIGATOR|ONLINE|Aligator Black Hat||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp||
 |https://t.me/Osintcorp_chat|ONLINE|OsintCorp Group Chat||
@@ -556,7 +556,7 @@
 |https://t.me/Leak_DBMS|ONLINE|Leak DBMS|Leaks & Breaches|
 |https://t.me/LulzSec_Off|ONLINE|PhantomGroup|Threat Actor|
 |https://t.me/hackercouncil|ONLINE|Hacker Council Global|DDoS|
-|https://t.me/dedsecc_official|ONLINE|DedSec|DDoS|
+|https://t.me/dedsecc_official|OFFLINE|DedSec|DDoS|
 |https://t.me/hackerforse|ONLINE|7 October Union|DDoS|
 |https://t.me/whoisAlixan|ONLINE|AlixSec|Leaks & Breaches|
 |https://t.me/StressedForums|OFFLINE|Stessed Forum|Forum|
@@ -564,3 +564,8 @@
 |https://t.me/h0lyleague|ONLINE|Holy League|DDoS|
 |https://t.me/+kcr0MVem9OA3MTk6|ONLINE|Handala Hack|Leaks & Breaches|
 |https://t.me/Handala_backup|ONLINE|Handala Backup|Leaks & Breaches|
+|https://t.me/azzasecurity|ONLINE|Azzasec|DDoS|
+|https://t.me/KozSec|OFFLINE|KozSec|DDoS
+|https://t.me/KozSec1|ONLINE|KozSec backup|DDoS|
+|https://t.me/KozSecChat|ONLINE|KozSec chat|DDoS|
+|https://t.me/TG_SECurityTr8Ker|ONLINE|SECurityTr8Ker|SEC's RSS feed monitor|
